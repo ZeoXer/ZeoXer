@@ -25,7 +25,9 @@ I have experience working with the following technologies:
 
 ## 🚀 Featured Projects
 
-### 📝 [Personal Blog](Your_Demo_Link_Here)
+### 📝 Personal Blog
+
+#### [Link to My Blog!](https://blog.zeoxer.com)
 
 _A full-stack blogging platform featuring Markdown content editing._
 
@@ -34,9 +36,11 @@ _A full-stack blogging platform featuring Markdown content editing._
   - Built a self-managed image hosting system and markdown editor supporting 30+ posts.
   - Integrated **Cloudflare R2** for object storage and **Umami** for analytics.
   - Deployed via Zeabur with a focus on maintainability.
-- [Frontend Repo](Your_Frontend_Repo_Link) | [Backend Repo](Your_Backend_Repo_Link)
 
-### 🤖 [FooDiary](Your_Repo_Link_Here)
+[![Personal Blog](https://github-readme-zeoxer.vercel.app/api/pin/?username=ZeoXer&repo=zeoxer-blog&theme=onedark)](https://github.com/ZeoXer/zeoxer-blog)
+[![Personal Blog Server](https://github-readme-zeoxer.vercel.app/api/pin/?username=ZeoXer&repo=personal-blog-server&theme=onedark)](https://github.com/ZeoXer/personal-blog-server)
+
+### 🤖 FooDiary
 
 _A RAG-based AI diary application integrating vector search._
 
@@ -46,11 +50,13 @@ _A RAG-based AI diary application integrating vector search._
   - Implemented the **RAG (Retrieval-Augmented Generation) pipeline** using Gemini API.
   - Deployed on AWS EC2 and configured **CloudWatch** for monitoring.
 
+[![FooDiary](https://github-readme-zeoxer.vercel.app/api/pin/?username=ZeoXer&repo=foodiary-rag&theme=onedark)](https://github.com/ZeoXer/foodiary-rag)
+
 ---
 
 ## 📈 GitHub Stats
 
-![ZeoXer GitHub stats](https://github-readme-stats-zeoxer.vercel.app/api?username=ZeoXer)
+![ZeoXer GitHub stats](https://github-readme-zeoxer.vercel.app/api?username=ZeoXer&show_icons=true&theme=onedark&hide_rank=true)
 
 <!--
 **ZeoXer/ZeoXer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
